@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
 	{
 		"name": "Cally Christensen",
 		"comment": "accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus et"
@@ -80,3 +81,4 @@
 		"comment": "facilisis eget, ipsum. Donec sollicitudin adipiscing ligula."
 	}
 ]
+}
